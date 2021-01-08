@@ -3,5 +3,6 @@
     "singleQuote": true,
     "tabWidth": 2,
     "TrailingCooma": "all",
-    "javascript.format.insertSpaceBeforeFunctionParenthesis": true
+    "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+    "printWidth": 200
 }
